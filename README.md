@@ -5,7 +5,7 @@ Okuduğun, okumakta olduğun ve okuyacağın kitapları takip etmeni sağlayan b
 
 ![Kitap listesi](screenshots/01-liste.png)
 
-🔗 **Canlı demo:** _(Netlify'a yüklendikten sonra buraya eklenecek)_
+🔗 **Canlı demo:** https://kitapligim-ffayken.netlify.app  ·  **Kaynak kod:** https://github.com/FFayken/kitapligim
 
 ## Özellikler
 
@@ -32,7 +32,7 @@ Okuduğun, okumakta olduğun ve okuyacağın kitapları takip etmeni sağlayan b
 Gereksinim: [Node.js](https://nodejs.org) 20.19+ (geliştirme: v24.19.0)
 
 ```bash
-git clone <repo-adresi>
+git clone https://github.com/FFayken/kitapligim.git
 cd kitapligim
 npm install
 npm run dev
