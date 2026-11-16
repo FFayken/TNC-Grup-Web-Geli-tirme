@@ -5,7 +5,7 @@ Okuduğun, okumakta olduğun ve okuyacağın kitapları takip etmeni sağlayan b
 
 ![Kitap listesi](screenshots/01-liste.png)
 
-🔗 **Canlı demo:** https://kitapligim-ffayken.netlify.app  ·  **Kaynak kod:** https://github.com/FFayken/kitapligim
+🔗 **Canlı demo:** https://kitapligim-ffayken.netlify.app  ·  **Kaynak kod:** https://github.com/FFayken/TNC-Grup-Web-Geli-tirme
 
 ## Özellikler
 
@@ -32,8 +32,8 @@ Okuduğun, okumakta olduğun ve okuyacağın kitapları takip etmeni sağlayan b
 Gereksinim: [Node.js](https://nodejs.org) 20.19+ (geliştirme: v24.19.0)
 
 ```bash
-git clone https://github.com/FFayken/kitapligim.git
-cd kitapligim
+git clone https://github.com/FFayken/TNC-Grup-Web-Geli-tirme.git
+cd TNC-Grup-Web-Geli-tirme
 npm install
 npm run dev
 ```
